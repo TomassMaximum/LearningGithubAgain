@@ -1,0 +1,3 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Working directory is the place we are standing at current time,repository is where we put our commits in. Staging area in the other hand, doesn't phisical exsits. It is a temperiary holder of files in one commits.
