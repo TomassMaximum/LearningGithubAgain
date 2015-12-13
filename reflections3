@@ -1,0 +1,6 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+Sometimes we need to coorperate with other people in a single task, we need to use a remote repository to work with others. For example,
+I can create a new branch to work on my task, another workmate need to finish another part of the job in another branch. We can merge 
+into one branch after we finished our tasks. For another example, I had just finished a part of the task in the company and went home. Then 
+I can use the remote repository to syc my local repository through GitHub.
