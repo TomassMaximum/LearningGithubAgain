@@ -4,3 +4,23 @@ Sometimes we need to coorperate with other people in a single task, we need to u
 I can create a new branch to work on my task, another workmate need to finish another part of the job in another branch. We can merge 
 into one branch after we finished our tasks. For another example, I had just finished a part of the task in the company and went home. Then 
 I can use the remote repository to syc my local repository through GitHub.
+
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+What if I'm still working with a elder version of a class and calling its elder methods which is being modified on the new version? The calling would failed and it would be quite annoying... Fine, I don't know exactly why, or right now I'm too lazy to think about it...
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks happen on the GitHub, it has nothing to do with the local repository. Clones can happen from GitHub to local repository. One can create branches once he or she want to make a new version or add some new features.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Using flash card to copy and paste or sending each other's work with comms applications. It seems so sweet that I don't need to learn how to use GitHub since it is quite difficult to begin with. But it would take much more time when collabrates with other workmates.
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When I'm adding a new feature to the project but not very sure that it is going to work very well. To prevent from effecting the master branches' codes or functions, it is better for me to make a new branch and add the feature. Making changes directly to the master branch is an easier way to go, but no as safe as making changes to a seperate branch.
